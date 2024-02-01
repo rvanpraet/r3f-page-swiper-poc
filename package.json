@@ -14,7 +14,6 @@
     "@react-three/fiber": "^8.13.3",
     "gsap": "^3.12.4",
     "leva": "^0.9.35",
-    "maath": "^0.10.7",
     "prettier": "^2.8.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
